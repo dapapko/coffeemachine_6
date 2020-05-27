@@ -1,0 +1,8 @@
+price:2500
+power:150
+temperature:pipi
+weight:5
+colour:white
+model:Gaccia S-400
+numberOfCups: 3
+pressure:17
